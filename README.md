@@ -17,6 +17,7 @@ um Control Room estilo UiPath para orquestrar tudo.
 
 [**Site**](https://arthurfaria.tech/capivara/index.html) ·
 [**Repositório oficial**](https://github.com/capivara-rpa/capivara) ·
-[**Guia**](https://github.com/capivara-rpa/capivara/blob/main/GUIA.md)
+[**Guia**](https://github.com/capivara-rpa/capivara/blob/main/GUIA.md) ·
+[**Comunidade**](https://github.com/capivara-rpa/capivara-community)
 
 </div>
